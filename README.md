@@ -11,7 +11,7 @@
       font-family: 'Montserrat', sans-serif;
       margin: 0;
       padding: 0;
-      background: url('https://via.placeholder.com/1920x1080?text=Background+Image') no-repeat center center/cover;
+      background: url(https://images.beta.cosmos.so/01e8bdca-2111-4fd4-b9cb-3a134ab5cf6b?format=jpeg) no-repeat center center/cover;
       background-size: cover;
       color: #fff;
       display: flex;
@@ -23,14 +23,14 @@
     }
 
     .header {
-      margin-top: 50px;
+      margin-top: 100px;
       font-size: 36px;
       font-weight: bold;
       letter-spacing: 2px;
     }
 
     .container {
-      margin-top: 50px;
+      margin-top: 100px;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -90,7 +90,7 @@
   <!-- Раздел Услуги -->
   <div id="services" class="section">
     <h2>Услуги</h2>
-    <p>Опишите ваши услуги здесь. Например, создание дизайна, редактирование фотографий, видеомонтаж или другие предложения.</p>
+    <p>Дизайн интерфейсов в figma и верстка на Tilda под ключ.</p>
   </div>
 
   <!-- Раздел Прайс -->
